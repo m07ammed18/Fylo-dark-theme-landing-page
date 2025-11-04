@@ -9,12 +9,12 @@
   background-position: bottom;
 
   @include respond(md) {
-    background-image: url("../../images/bg-curvy-mobile.svg");
+    background-image: url("../images/bg-curvy-mobile.svg");
     background-size: 100% auto;
   }
 
   @include respond(sm) {
-    background-image: url("../../images/bg-curvy-desktop.svg");
+    background-image: url("../images/bg-curvy-desktop.svg");
     background-size: 100% auto;
   }
 }
