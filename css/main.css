@@ -61,20 +61,20 @@ h4 {
 
 .hero-section {
   background-color: hsl(217, 28%, 15%);
-  background-image: url("../../images/bg-curvy-desktop.svg");
+  background-image: url("../images/bg-curvy-desktop.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
 }
 @media (max-width: 768px) {
   .hero-section {
-    background-image: url("../../images/bg-curvy-mobile.svg");
+    background-image: url("../images/bg-curvy-mobile.svg");
     background-size: 100% auto;
   }
 }
 @media (max-width: 480px) {
   .hero-section {
-    background-image: url("../../images/bg-curvy-desktop.svg");
+    background-image: url("../images/bg-curvy-desktop.svg");
     background-size: 100% auto;
   }
 }
