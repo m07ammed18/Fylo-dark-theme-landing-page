@@ -1,0 +1,25 @@
+// Colors
+$navy : hsl(217, 28%, 15%);
+$main-bg : hsl(218, 28%, 13%);
+$footer-bg : hsl(216, 53%, 9%);
+$testimonials-bg:  hsl(219, 30%, 18%);
+
+$teal: hsl(176, 68%, 64%);
+$cyan:  hsl(198, 60%, 50%);
+$red: hsl(0, 100%, 63%);
+$white: hsl(0, 0%, 100%);
+
+// Typegraphy
+$font-body: "Open Sans", sans-serif;
+$font-heading : "Raleway", sans-serif;
+
+$font-bold: 700;
+$font-regular: 400;
+
+// Breakpoints
+$breakpoints: (
+  sm: 480px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1440px
+);
